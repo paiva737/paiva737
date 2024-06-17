@@ -64,6 +64,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/paiva737/paiva737/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/paiva737)
+
+
 
 ###
