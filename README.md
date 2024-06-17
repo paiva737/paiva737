@@ -64,7 +64,7 @@
 
 ###
 
-![snake animation](https://github.com/paiva737)
+![snake gif](https://github.com/paiva737/paiva737/blob/output/github-contribution-grid-snake.svg)
 
 
 
