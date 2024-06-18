@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/profile.php?id=100010369152715&locale=pt_BR" target="_blank" rel = "external">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="mailto:rafaelpaiva636@gmail.com" target="_blank" rel="external">
+  <a href="gmailto:rafaelpaiva636@gmail.com" target="_blank" rel="external">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
