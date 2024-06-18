@@ -3,16 +3,16 @@
 ###
 
 <div align="left">
-  <a href="https://api.whatsapp.com/send?phone=5571992854808&text=Ol%C3%A1%20Rafael%2C%20Me%20fale%20mais%20sobre%20voc%C3%AA" target="_blank" rel = "external">
+  <a href="https://api.whatsapp.com/send?phone=5571992854808&text=Ol%C3%A1%20Rafael%2C%20Me%20fale%20mais%20sobre%20voc%C3%AA" target="_blank" rel="external">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.instagram.com/paiva737_/" target="_blank">
+  <a href="https://www.instagram.com/paiva737_/" target="_blank" rel= "external">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100010369152715&locale=pt_BR" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100010369152715&locale=pt_BR" target="_blank" rel = "external">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="rafaelpaiva636@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtQLDsxfHzMzDRrgJNZTjJCLPXksPFCKgmvNmpbgvpMcpZrkzxtxGnSgmpTqjtxMbGdWN" target="_blank" rel="external">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
