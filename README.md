@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
  
-  <a href="mailto:rafaelpaiva636@gmail.com?subject=Oferta+de+Trabalho" target="_blank" rel="external">
+  <a href="mailto:rafaelpaiva636@gmail.com?subject=Oferta de Trabalho" target="_blank" rel="external">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
