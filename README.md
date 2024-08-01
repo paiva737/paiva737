@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">- ingles Avançado<br>- Work and Travel - Dezembro, 2023 a Março, 2024<br>  Imersão cultural e experiência de trabalho em inglês.<br>- Centro universitário - UNIJORGE<br>CIÊNCIAS DA COMPUTAÇÃO (CURSANDO O 7º SEMESTRE)</p>
+<p align="left">- Ingles Avançado<br>- Work and Travel - Dezembro, 2023 a Março, 2024<br>  Imersão cultural e experiência de trabalho em inglês.<br>- Centro universitário - UNIJORGE<br>CIÊNCIAS DA COMPUTAÇÃO (CURSANDO O 7º SEMESTRE)</p>
 
 ###
 
