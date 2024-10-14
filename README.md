@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">Tenho 21 anos, sou desenvolvedor web, Sou atencioso e<br>responsável, Me encontrei cada vez mais na área de web,<br>tenho me dedicado totalmente à isso, Sou esforçado,<br>cuidadoso e organizado estarei a disposição sempre,<br>principalmente para oportunidades que me façam<br>evoluir.<br>Desejo atuar na área de desenvolvedor web, aplicando<br>estratégias necessárias, aprimorando minhas habilidades de<br>programar e técnicas como estudante, estou disposto a dar<br>tudo de mim e fazer o que for necessário.</p>
+<p align="left">Tenho 22 anos, sou desenvolvedor web, Sou atencioso e<br>responsável, Me encontrei cada vez mais na área de web,<br>tenho me dedicado totalmente à isso, Sou esforçado,<br>cuidadoso e organizado estarei a disposição sempre,<br>principalmente para oportunidades que me façam<br>evoluir.<br>Desejo atuar na área de desenvolvedor web, aplicando<br>estratégias necessárias, aprimorando minhas habilidades de<br>programar e técnicas como estudante, estou disposto a dar<br>tudo de mim e fazer o que for necessário.</p>
 
 ###
 
